@@ -11,7 +11,10 @@ int main()
 	printf("\n3. 확진자 명단");
 	printf("\n4. 끝내기");
 
+	switch (int n)
+	{
 
+	}
 
 
 
